@@ -1,0 +1,10 @@
+.git
+.metadata
+.mule
+studio_id.xml
+.settings
+catalog/*
+target/*
+.classpath
+.project
+

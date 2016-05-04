@@ -3,8 +3,8 @@
 .mule
 studio_id.xml
 .settings
-catalog/*
-target/*
+apstart/catalog/*
+apstart/target/*
 .classpath
 .project
 
